@@ -1,0 +1,2 @@
+option('opt', type : 'combo', choices : ['a', 'b'], value : 'a', yield : true)
+
